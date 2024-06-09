@@ -1,0 +1,19 @@
+Student Grade Calculator
+Description:-
+The Student Grade Calculator is written in Java. It allows users to input marks for multiple subjects and calculates the total marks, average percentage, and the corresponding grade based on a predefined grading scale.
+Features
+*Input marks for a customizable number of subjects.
+*Calculates the total marks and average percentage.
+*Determines the grade based on the average percentage using a predefined grading scale.
+*User-friendly console prompts and messages.
+Grading Scale:-
+O: 95% and above
+A+: 86% - 94%
+A: 77% - 85%
+B+: 67% - 76%
+B: 57% - 66%
+C+: 48% - 56%
+C: 39% - 47%
+D: 33% - 38%
+F: Below 33%.
+       
