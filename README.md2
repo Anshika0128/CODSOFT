@@ -1,0 +1,9 @@
+ATM Interface
+Description:-
+The ATM Interface is developed in Java, designed to simulate basic ATM functionalities such as checking account balance, making deposits, and withdrawing money. It provides a simple and intuitive menu-driven interface for users to interact with their bank account.
+
+Features:-
+*Check Account Balance: View the current balance of the account.
+*Deposit Money: Deposit a specified amount into the account.
+*Withdraw Money: Withdraw a specified amount from the account if sufficient funds are available.
+*User-friendly Interface: Easy-to-use menu system for performing different banking operations.
